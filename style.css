@@ -1,0 +1,15 @@
+div{
+    margin: 30px;
+    padding: 25px;
+    font-size: 36px;
+    text-align: center;
+    background-color: pink;
+    border-radius: 15px;
+}
+
+#div1{
+    font-size: 72px;
+  background:  linear-gradient(#eee, #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
